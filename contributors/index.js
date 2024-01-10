@@ -1,4 +1,11 @@
 const list = [
+  {
+    name: 'Angelica',
+    country: 'United States',
+    role: 'Open to work in SWE role',
+    tech_stack: ['Python', 'Java', 'Javascript', 'NodeJs', 'C++'],
+    github_username: 'Angelica-Michaca',
+  },
 	{
 		name: 'Sabahat iqbal',
 		country: 'United States',
